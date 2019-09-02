@@ -1,7 +1,5 @@
 package com.calculator.binary.operators;
 
-;
-
 public class InitialNumber implements Number {
 
 	private double numberResult;

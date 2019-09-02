@@ -10,10 +10,10 @@ public class Divide extends BinaryOperator {
 	}
 	
 	public double getNumberResult() throws IllegalArgumentException {
-		
 		if (divideByValue == 0) {
 			throw new IllegalArgumentException("Can not divide by 0");
 		}
+		
 		return super.getNumberResult() / divideByValue;
 	}
 }
