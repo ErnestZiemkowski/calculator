@@ -1,0 +1,4 @@
+subtract 12
+subtract 2
+subtract 34
+apply 2

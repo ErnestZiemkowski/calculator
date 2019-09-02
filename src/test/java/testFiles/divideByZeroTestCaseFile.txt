@@ -1,0 +1,4 @@
+divide 2
+divide -4
+divide 0
+apply 36

@@ -1,0 +1,4 @@
+multiply 2
+multiply 5
+multiply -2
+apply 4

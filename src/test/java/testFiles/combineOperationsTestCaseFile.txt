@@ -1,0 +1,7 @@
+add 6
+subtract 2
+multiply 5
+multiply -2
+divide 4
+divide -5
+apply 50
